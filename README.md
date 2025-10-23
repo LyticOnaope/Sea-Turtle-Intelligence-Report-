@@ -92,6 +92,15 @@ It focuses on analyzing the **Sea Turtle** espionage group — a **Turkish state
 
 ---
 
+## 📚 References
+- [Hunt & Hackett – Turkish Espionage Campaigns (2024)](https://www.huntandhackett.com/blog/turkish-espionage-campaigns)  
+- Cisco Talos (2019) – *Global DNS Hijacking Campaign*  
+- Tenable (2021) – *Sea Turtle: Persistent DNS Hijacking Threat*  
+- [MITRE ATT&CK Framework](https://attack.mitre.org/)  
+- VirusTotal & RIPE NCC ASN lookups  
+
+---
+
 ## ✅ Learning Outcomes
 
 Through this project, I gained hands-on experience in:  
@@ -107,6 +116,12 @@ Through this project, I gained hands-on experience in:
 
 - `SeaTurtle_Final_Threat_Intelligence_Report_OnaopeOlugbemiro.docx`  
 - `SeaTurtle_Threat_Intelligence_Presentation_OnaopeOlugbemiro.pptx`
+
+---
+
+### 🧾 License
+This project is created for academic and professional portfolio purposes.  
+You are free to fork and reference for educational use with proper attribution.
 
 ---
 
