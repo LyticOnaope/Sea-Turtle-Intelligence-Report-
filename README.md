@@ -26,6 +26,7 @@ It focuses on analyzing the **Sea Turtle** espionage group — a **Turkish state
 | Tool / Framework | Purpose |
 |------------------|----------|
 | **MISP** | IOC extraction and correlation |
+| **Docker Compose (Kali Linux)** | Deployed containerized MISP instance for live feed analysis |
 | **VirusTotal** | IOC reputation and malware analysis |
 | **WHOIS / ASN Lookup** | Hosting, geolocation, and network attribution |
 | **MITRE ATT&CK** | TTP mapping and behavioral profiling |
@@ -104,6 +105,7 @@ It focuses on analyzing the **Sea Turtle** espionage group — a **Turkish state
 ## ✅ Learning Outcomes
 
 Through this project, I gained hands-on experience in:  
+- **Containerized MISP deployment using Docker Compose on Kali Linux**. 
 - **Threat intelligence collection & IOC enrichment** (MISP, VirusTotal).  
 - **MITRE ATT&CK mapping and behavioral analysis**.  
 - **Technical & executive reporting** for CERT operations.  
